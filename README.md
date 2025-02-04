@@ -1,5 +1,4 @@
 latest and greatest unoffical appimage
-you will need qt6 installed
 
 v1.02
 Latest Package Built From Arch Repo
