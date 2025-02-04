@@ -1,7 +1,9 @@
 latest and greatest unoffical appimage
 
 v1.02
-Latest Package Built From Arch Repo
+discord-0.0.83
+Latest Package Built From Discord.tar.gz
+this will work on debian and arch maybe others
 
 
 download
