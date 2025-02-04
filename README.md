@@ -1,0 +1,2 @@
+# DiscordAppImage
+DiscordAppImage
